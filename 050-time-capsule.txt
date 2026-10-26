@@ -1,0 +1,5 @@
+Title: Time Capsule
+Prompt: Create a responsive offline time-capsule writing page with warm parchment tones, refined serif typography, a title field and a memory field. Save the entries locally in the browser with success or failure feedback. Inline all code.
+Description: An elegant paper-like form lets the viewer preserve a small detail from today.
+Visual techniques: parchment palette, fine rules, soft paper shadow, spacious editorial form.
+Interaction model: The user enters a title and memory and saves them locally.

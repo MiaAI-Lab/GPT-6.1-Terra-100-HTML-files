@@ -1,0 +1,5 @@
+Title: Tea Ceremony
+Prompt: Create a responsive offline tea ritual page with a top-down CSS cup and saucer, muted sage and cream colors, refined serif typography and a button cycling three ritual steps. Inline all code.
+Description: A quiet illustrated tea setting invites a moment of deliberate attention.
+Visual techniques: concentric cup and saucer, soft shadows, muted natural palette, editorial layout.
+Interaction model: A button advances through three ritual steps.

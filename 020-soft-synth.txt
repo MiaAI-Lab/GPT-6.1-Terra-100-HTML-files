@@ -1,0 +1,5 @@
+Title: Soft Synth
+Prompt: Make a self-contained responsive seven-note synthesizer in pastel lavender, with a tactile instrument enclosure, luminous display, playful oversized type and seven piano keys. Use the Web Audio API to play short sine notes on user interaction; inline everything and require no network.
+Description: A friendly fictional instrument invites the viewer to make a small melody.
+Visual techniques: rounded hardware enclosure, pastel palette, glowing display, tactile key states, bold typography.
+Interaction model: Clicking or tapping a key plays a short synthesized note.

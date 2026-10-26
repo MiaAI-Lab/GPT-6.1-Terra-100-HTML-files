@@ -1,0 +1,5 @@
+Title: The Reading Room
+Prompt: Create a responsive offline imaginary library with four clickable CSS book spines on a shelf, deep forest green background, warm muted covers and elegant serif typography. Selecting a book reveals its fictional description. Inline all code.
+Description: A quiet illustrated bookshelf presents four invented books and their stories.
+Visual techniques: vertical book spines, tactile shelf, muted cover colors, centered editorial title.
+Interaction model: Selecting a book reveals a short description.

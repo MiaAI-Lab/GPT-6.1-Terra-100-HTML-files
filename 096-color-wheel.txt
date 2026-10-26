@@ -1,0 +1,5 @@
+Title: Color Wheel
+Prompt: Create a responsive offline six-color wheel using a CSS conic gradient, warm paper background, refined serif typography and a button rotating the wheel. Inline all code.
+Description: A ring of muted colors becomes a simple study in visual relationships.
+Visual techniques: conic gradient, circular cutout, curated muted palette, smooth rotation.
+Interaction model: A button rotates the wheel by sixty degrees.

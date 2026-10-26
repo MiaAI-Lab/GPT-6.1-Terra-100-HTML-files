@@ -1,0 +1,5 @@
+Title: Little Victories
+Prompt: Create a responsive offline encouragement page with a warm cream palette, decorative star, large serif typography and an input for a small daily victory. A button should acknowledge the entered text. Inline all code.
+Description: A gentle interactive poster gives the viewer a moment to recognize a small accomplishment.
+Visual techniques: centered typography, warm palette, star ornament, minimal form.
+Interaction model: Enter a victory and press the button to display an acknowledgment.

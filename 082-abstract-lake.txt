@@ -1,0 +1,5 @@
+Title: Abstract Lake
+Prompt: Create a responsive offline abstract lake print with a pale sun, horizontal waterline, striped reflection, muted greens and elegant serif typography. Include a button altering the reflection. Inline all code.
+Description: A minimal lake scene studies the relationship between a sun and its reflection.
+Visual techniques: color blocking, CSS sun, striped reflection, muted natural palette.
+Interaction model: A button widens or restores the reflection.

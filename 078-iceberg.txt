@@ -1,0 +1,5 @@
+Title: Iceberg
+Prompt: Create a responsive offline iceberg illustration using a CSS polygon crossing a horizontal waterline, cool blue colors, large serif typography and a button that shifts the iceberg. Inline all code.
+Description: An iceberg reveals a larger hidden form beneath the surface.
+Visual techniques: clipped polygon, two-tone waterline, cool gradients, simple movement.
+Interaction model: A button moves the iceberg and returns it.

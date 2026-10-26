@@ -1,0 +1,5 @@
+Title: Clockwork
+Prompt: Build a responsive offline analog clock with a warm brass-and-paper palette, concentric dial, local-time hour and minute hands and elegant serif typography. Inline all code.
+Description: A simple contemporary clock borrows the warmth of an old instrument.
+Visual techniques: CSS circular dial, rotating hands, warm metallic colors, refined typography.
+Interaction model: The clock updates automatically from the device's local time.

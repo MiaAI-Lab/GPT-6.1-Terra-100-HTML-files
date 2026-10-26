@@ -1,0 +1,5 @@
+Title: The Sunroom
+Prompt: Build a responsive offline editorial illustration of a sunlit room with an arched window, potted plant and warm peach walls using CSS shapes. Add elegant serif typography and a button cycling small pleasures. Inline all code.
+Description: A warm illustrated room becomes a gentle invitation to enjoy ordinary moments.
+Visual techniques: CSS architectural illustration, warm color blocking, arched window, botanical shapes.
+Interaction model: A button cycles through descriptions of small pleasures.

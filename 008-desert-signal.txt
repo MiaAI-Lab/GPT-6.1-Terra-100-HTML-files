@@ -1,0 +1,5 @@
+Title: Desert Signal
+Prompt: Create a cinematic, responsive desert scene as a standalone HTML page, using CSS only for a hazy sun, layered dunes and atmospheric gradients. Place elegant oversized serif typography and understated expedition metadata over the scene. Include a control that shifts the scene between day and night. Inline all CSS and JavaScript and require no network.
+Description: An imaginary desert transmission offers a quiet cinematic moment in a landscape of layered silhouettes.
+Visual techniques: CSS dunes, glowing sun, atmospheric gradients, centered typography, color transitions.
+Interaction model: The light-change button toggles between daylight and an evening treatment.

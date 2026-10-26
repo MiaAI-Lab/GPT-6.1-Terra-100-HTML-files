@@ -1,0 +1,5 @@
+Title: Constellation Maker
+Prompt: Build an offline responsive interactive star-placement canvas using ordinary HTML elements. Style it as a midnight-blue astronomical field with luminous points, delicate borders and elegant serif typography. Let users add stars by tapping and clear them. Inline all CSS and JavaScript.
+Description: A dark sky becomes a personal canvas for small points of light.
+Visual techniques: radial sky gradient, star glows, fine borders, restrained celestial metadata.
+Interaction model: Tapping the sky places stars; a button clears them and resets the count.

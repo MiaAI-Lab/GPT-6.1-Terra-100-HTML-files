@@ -1,0 +1,5 @@
+Title: Copper Orbit
+Prompt: Create a responsive offline sculptural orbit study with three copper elliptical rings, a luminous metallic sphere, dark charcoal background and elegant serif type. Add a control to shift the sphere. Inline all code.
+Description: A set of intersecting copper paths frames a warm central sphere.
+Visual techniques: elliptical borders, metallic radial gradient, glow, dark gallery presentation.
+Interaction model: A button shifts the central sphere and returns it.

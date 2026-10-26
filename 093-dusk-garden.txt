@@ -1,0 +1,5 @@
+Title: Dusk Garden
+Prompt: Create a responsive offline dusk garden illustration with a silhouetted CSS plant, warm setting sun, plum and rose gradient, elegant serif typography and a night toggle. Inline all code.
+Description: A quiet garden shifts from the last light of evening into night.
+Visual techniques: plant silhouette, gradient sky, sun disc, atmospheric color filter.
+Interaction model: A button toggles the night treatment.

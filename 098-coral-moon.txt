@@ -1,0 +1,5 @@
+Title: Coral Moon
+Prompt: Create a responsive offline abstract moon print with a pale circular moon, coral field, warm halo, elegant serif typography and a button cycling moon silhouettes. Inline all code.
+Description: A familiar moon is reimagined in the colors of a warm evening.
+Visual techniques: circular moon, translucent halo, clipped phases, coral palette.
+Interaction model: A button cycles through three moon silhouettes.

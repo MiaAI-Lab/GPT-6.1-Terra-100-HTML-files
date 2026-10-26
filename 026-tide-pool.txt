@@ -1,0 +1,5 @@
+Title: Tide Pool
+Prompt: Create an offline responsive tide-pool art page with an organic water shape, smooth stones, concentric animated ripples, sea-glass colors and a pause control. Use editorial serif typography, inline code and reduced-motion support.
+Description: A tiny imagined coastal world becomes a peaceful animated composition.
+Visual techniques: organic border radii, layered stone forms, expanding ripple rings, sea-glass palette.
+Interaction model: A button pauses and resumes the ripples.

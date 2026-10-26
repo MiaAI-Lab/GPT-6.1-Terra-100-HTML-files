@@ -1,0 +1,5 @@
+Title: Orbit Notes
+Prompt: Create a responsive offline poetic idea study with overlapping orbital lines, a rose-colored central sphere, muted blush background and elegant serif typography. Add a button cycling three reflections. Inline all code.
+Description: A small imagined orbit becomes a metaphor for thoughts that return.
+Visual techniques: elliptical lines, radial gradient sphere, blush palette, minimal composition.
+Interaction model: A button cycles through three short reflections.

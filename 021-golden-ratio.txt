@@ -1,0 +1,5 @@
+Title: Golden Ratio Study
+Prompt: Build a responsive offline geometric study inspired by the golden ratio, using a divided ochre rectangle, delicate arcs, warm paper and large editorial serif typography. Include a button to rotate the composition. Inline CSS and JavaScript.
+Description: A familiar mathematical proportion becomes a quiet abstract print.
+Visual techniques: proportional CSS grid, quarter-circle arcs, warm pigment, fine borders, gentle rotation.
+Interaction model: A button rotates the geometric composition.

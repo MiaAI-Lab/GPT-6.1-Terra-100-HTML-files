@@ -1,0 +1,5 @@
+Title: Arcade Orbit
+Prompt: Create a responsive offline playful arcade-inspired cosmic poster with a rotating dashed orbit, glowing star, purple background, pink block typography and a pause control. Honor reduced motion and inline all code.
+Description: A bright fictional arcade screen turns a celestial orbit into a playful toy.
+Visual techniques: rotating dashed circle, glowing star, bold shadowed lettering, saturated colors.
+Interaction model: A button pauses or resumes the orbit.

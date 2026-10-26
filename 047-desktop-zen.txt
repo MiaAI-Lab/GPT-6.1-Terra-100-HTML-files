@@ -1,0 +1,5 @@
+Title: Desktop Zen
+Prompt: Create a responsive offline miniature zen garden with CSS raked sand, two rounded stones, a wood-like border and quiet serif typography. Add a button that rotates the garden. Inline all code.
+Description: A small abstract sand garden provides a visual pause.
+Visual techniques: repeating radial gradients, inset stone shadows, earthy neutrals, square composition.
+Interaction model: A button rotates the garden.

@@ -1,0 +1,5 @@
+Title: Ribbon Dance
+Prompt: Create a responsive offline abstract motion study with three overlapping animated ribbon loops in rose, violet and gold on a dark plum background. Add elegant centered typography, a pause button and reduced-motion support. Inline all code.
+Description: Three translucent loops move together like a slow abstract dance.
+Visual techniques: elliptical borders, blend modes, looping rotation, rich dark palette, centered type.
+Interaction model: A button pauses and resumes the motion.

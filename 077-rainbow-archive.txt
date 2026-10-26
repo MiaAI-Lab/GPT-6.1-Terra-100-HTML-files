@@ -1,0 +1,5 @@
+Title: Rainbow Archive
+Prompt: Make a responsive offline modernist rainbow print with three nested CSS arches, muted earthy colors, bold typography and a button shifting the palette. Inline all code.
+Description: A graphic rainbow turns a familiar sign of hope into a simple color study.
+Visual techniques: nested rounded arches, muted color blocks, minimal poster composition.
+Interaction model: A button toggles an alternate color treatment.

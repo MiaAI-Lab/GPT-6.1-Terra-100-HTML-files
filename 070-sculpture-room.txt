@@ -1,0 +1,5 @@
+Title: Sculpture Room
+Prompt: Create a responsive offline sculpture gallery page with an abstract arched CSS sculpture on a pedestal, warm plaster colors, soft shadow and large serif typography. Include a button rotating the sculpture. Inline all code.
+Description: A simple sculptural form is displayed in a quiet imaginary gallery.
+Visual techniques: CSS arch, pedestal, soft directional shadow, warm gallery palette.
+Interaction model: A button rotates the sculpture.

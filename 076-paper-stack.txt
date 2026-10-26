@@ -1,0 +1,5 @@
+Title: Paper Stack
+Prompt: Create a responsive offline editorial page with a stack of rotated paper sheets, soft shadows, warm neutrals and elegant serif typography. Add a button that moves the top sheet. Inline all code.
+Description: A stack of blank pages celebrates the possibility of beginning.
+Visual techniques: layered rotated rectangles, paper shadows, warm neutral palette, gentle transition.
+Interaction model: A button shifts the top page and returns it.

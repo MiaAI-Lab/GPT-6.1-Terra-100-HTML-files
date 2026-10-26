@@ -1,0 +1,5 @@
+Title: Casa Sol
+Prompt: Create a responsive, self-contained boutique retreat landing page in warm terracotta, cream and clay. Illustrate a sunlit house with a rounded arch, sun and plant using CSS shapes. Pair it with refined serif typography, generous whitespace and a small discovery interaction. Use only inline assets and code and make it work offline.
+Description: An imagined Portuguese retreat is represented as a warm architectural illustration and an invitation to slow down.
+Visual techniques: CSS architecture, flat-color illustration, arched geometry, editorial serif type, warm earth palette.
+Interaction model: The exploration button reveals a short description of the house.

@@ -1,0 +1,5 @@
+Title: Type Playground
+Prompt: Build a bold, responsive interactive typographic poster with massive black system type, a vivid color field, a compact control panel, editable text and a palette cycle. All code must be inline and work offline.
+Description: A punchy poster-making toy celebrates letters as graphic shapes.
+Visual techniques: oversized type, brutalist grid, high contrast, saturated color, tight tracking.
+Interaction model: Typing updates the poster; a button cycles its background color.

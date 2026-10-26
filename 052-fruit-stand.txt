@@ -1,0 +1,5 @@
+Title: Fruit Stand
+Prompt: Create a responsive offline fruit stand poster with three selectable CSS fruit illustrations, saturated warm colors, oversized bold typography and short cheerful messages. Inline all code.
+Description: A playful market display offers bright colors and small notes of encouragement.
+Visual techniques: flat fruit shapes, warm color panels, poster typography, three-column grid.
+Interaction model: Selecting a fruit reveals its message.

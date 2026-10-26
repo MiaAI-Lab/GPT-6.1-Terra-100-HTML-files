@@ -1,0 +1,5 @@
+Title: Pixel Sky
+Prompt: Create a responsive offline pixel-inspired sunset scene with a blocky sun, stepped silhouette, purple-pink sky, monospace metadata and bold type. Add a button that changes the light to a nighttime palette. Inline all code.
+Description: A tiny blocky landscape captures the feeling of watching another sunset.
+Visual techniques: stepped polygon silhouette, box-shadow pixels, gradient sky, bold typography.
+Interaction model: A button toggles the sky's color treatment.

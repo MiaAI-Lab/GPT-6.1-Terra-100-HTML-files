@@ -1,0 +1,5 @@
+Title: Leaf Press
+Prompt: Create a responsive standalone botanical specimen page with a large CSS leaf on a pale paper mount, muted greens, fine field-note labels and elegant serif typography. Add a button that rotates the leaf. Inline all code.
+Description: An imagined pressed leaf is presented as a quiet specimen in a naturalist's collection.
+Visual techniques: organic leaf shape, soft shadows, paper mount, botanical palette, restrained labels.
+Interaction model: The button rotates the specimen.

@@ -1,0 +1,5 @@
+Title: Driftwood
+Prompt: Create a responsive offline coastal editorial page with a CSS driftwood illustration, muted sea-glass colors, simple waves and large serif typography. Add a button cycling three short object stories. Inline all code.
+Description: A found piece of wood becomes a quiet reminder of journeys and time.
+Visual techniques: organic shapes, layered wave forms, muted coastal palette, restrained typography.
+Interaction model: A button cycles through three imagined stories.

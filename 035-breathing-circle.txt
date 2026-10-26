@@ -1,0 +1,5 @@
+Title: Breathing Circle
+Prompt: Build a responsive self-contained breathing visual with a slowly expanding sea-glass circle, concentric halos, centered serif typography and a motion pause button. Respect reduced motion and inline all code.
+Description: A simple softly pulsing circle provides a calm visual focus for a pause.
+Visual techniques: radial gradients, expanding circle, translucent halos, centered minimal layout.
+Interaction model: A button pauses or resumes the visual motion.

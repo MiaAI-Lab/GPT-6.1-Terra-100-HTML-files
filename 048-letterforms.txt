@@ -1,0 +1,5 @@
+Title: Letterforms
+Prompt: Make a responsive offline typographic gallery of four oversized serif letters on different muted color fields. Each letter should toggle to a dark selected state. Use an editorial title and inline all code.
+Description: Familiar letters are presented as abstract objects in a simple color study.
+Visual techniques: oversized serif glyphs, four-color grid, restrained palette, selected states.
+Interaction model: Clicking a letter toggles its color field.

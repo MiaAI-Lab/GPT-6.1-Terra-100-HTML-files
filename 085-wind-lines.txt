@@ -1,0 +1,5 @@
+Title: Wind Lines
+Prompt: Create a responsive offline abstract wind study with four animated curved lines on a pale teal field, elegant serif typography, a pause control and reduced-motion support. Inline all code.
+Description: Moving curves suggest the shape of air passing through an open space.
+Visual techniques: elliptical linework, gentle translations, muted teal palette, square composition.
+Interaction model: A button pauses or resumes the animated lines.

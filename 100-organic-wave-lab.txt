@@ -1,0 +1,5 @@
+Title: Organic Wave Lab
+Prompt: Create a responsive offline organic motion study with three layered morphing green wave shapes, a pale botanical palette, refined serif typography, a pause control and reduced-motion support. Inline all code.
+Description: Soft overlapping forms flow together in a quiet abstract composition.
+Visual techniques: animated organic border radii, layered waves, botanical palette, smooth motion.
+Interaction model: A button pauses or resumes the waves.

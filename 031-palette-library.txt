@@ -1,0 +1,5 @@
+Title: Palette Library
+Prompt: Create a responsive self-contained color palette page inspired by a weathered coastline. Display five full-height clickable swatches with their names and hexadecimal values, bold editorial type and a copy-to-clipboard interaction with a fallback. Inline all code and require no network.
+Description: A curated coastal palette becomes a useful and graphic reference sheet.
+Visual techniques: vertical color fields, minimalist grid, large type, precise labels.
+Interaction model: Clicking a swatch copies its hex code when clipboard access is available and otherwise displays the value.

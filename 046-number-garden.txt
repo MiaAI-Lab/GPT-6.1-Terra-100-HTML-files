@@ -1,0 +1,5 @@
+Title: Number Garden
+Prompt: Build a responsive offline interactive number garden with ten selectable numbered tiles that transform into green circles, a botanical palette and a live count. Use inline CSS and JavaScript.
+Description: A simple number grid becomes a playful pattern of growing circular forms.
+Visual techniques: responsive grid, transforming square-to-circle shapes, soft greens, serif numerals.
+Interaction model: Clicking a number toggles its shape and updates the count.

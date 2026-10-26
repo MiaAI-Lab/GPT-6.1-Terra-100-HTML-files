@@ -1,0 +1,5 @@
+Title: One Quiet Minute
+Prompt: Design a responsive, self-contained one-minute breathing timer with sage green tones, elegant editorial serif type, a simple CSS hourglass and fine concentric circles. Include a working sixty-second countdown and restart button. Use inline CSS and JavaScript and work without network access.
+Description: A serene focus tool gives the user a small pause, presented as a quiet physical instrument.
+Visual techniques: CSS hourglass, muted botanical palette, circular linework, spacious split composition.
+Interaction model: The button starts or restarts a sixty-second countdown.

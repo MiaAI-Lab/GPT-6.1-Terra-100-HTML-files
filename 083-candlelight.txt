@@ -1,0 +1,5 @@
+Title: Candlelight
+Prompt: Create a responsive offline candlelit evening page with a CSS candle, glowing flickering flame, dark plum background, refined serif typography and a button to extinguish or relight the flame. Support reduced motion and inline all code.
+Description: A single candle offers a warm visual pause at the end of the day.
+Visual techniques: candle gradient, glowing animated flame, dark atmosphere, spacious typography.
+Interaction model: A button toggles the flame.

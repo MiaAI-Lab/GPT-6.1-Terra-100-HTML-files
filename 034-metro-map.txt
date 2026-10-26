@@ -1,0 +1,5 @@
+Title: Elsewhere Metro
+Prompt: Create a responsive offline imaginary transit map with a bold coral route line, four clickable station markers, muted map colors and oversized modernist typography. Each station reveals a short poetic description. Inline all code.
+Description: A fictional metro line turns a simple route into a playful invitation to wander.
+Visual techniques: schematic route, circular stations, large typography, flat map palette.
+Interaction model: Selecting a station reveals its description.

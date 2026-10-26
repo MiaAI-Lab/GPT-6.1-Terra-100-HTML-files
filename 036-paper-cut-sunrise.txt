@@ -1,0 +1,5 @@
+Title: Paper Sunrise
+Prompt: Create a responsive offline paper-cut sunrise landscape with layered hills, a warm peach sky, a movable sun and elegant editorial typography. Include a button to raise and lower the sun. Inline all code.
+Description: A simple layered landscape celebrates the possibility of a new day.
+Visual techniques: overlapping rounded hills, warm flat colors, subtle paper shadows, animated sun.
+Interaction model: The button raises or lowers the sun.

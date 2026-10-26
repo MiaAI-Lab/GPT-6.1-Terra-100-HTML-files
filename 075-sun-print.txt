@@ -1,0 +1,5 @@
+Title: Sun Print
+Prompt: Create a responsive offline abstract sun print with concentric warm circles, a terracotta field, refined serif typography and a button to enlarge the sun. Inline all code.
+Description: A simple warm circle becomes an abstract souvenir of an afternoon.
+Visual techniques: concentric color rings, flat warm palette, square art panel, gentle scaling.
+Interaction model: A button enlarges or restores the sun.

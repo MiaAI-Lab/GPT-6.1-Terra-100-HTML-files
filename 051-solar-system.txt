@@ -1,0 +1,5 @@
+Title: Small Solar System
+Prompt: Create a responsive offline imagined solar system with three CSS orbiting planets, a glowing sun, thin orbital lines, dark navy space and elegant serif typography. Include pause and reduced-motion support. Inline all code.
+Description: A small kinetic universe offers a quiet view of worlds moving at different speeds.
+Visual techniques: rotating orbit rings, glowing sun, planet markers, atmospheric dark palette.
+Interaction model: A button pauses or resumes the orbits.

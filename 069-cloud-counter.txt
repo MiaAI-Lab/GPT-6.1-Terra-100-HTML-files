@@ -1,0 +1,5 @@
+Title: Cloud Counter
+Prompt: Create a responsive offline cloud-counting widget with a soft CSS cloud, pale sky-blue background, large serif typography, a count and increment/reset controls. Inline all code.
+Description: A simple counter encourages a playful moment of attention to the sky.
+Visual techniques: overlapping cloud circles, soft shadows, airy palette, centered composition.
+Interaction model: The user increments or resets the cloud count.

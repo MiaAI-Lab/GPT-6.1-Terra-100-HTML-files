@@ -1,0 +1,5 @@
+Title: Kinetic Poem
+Prompt: Create a responsive offline kinetic typography poem with three oversized staggered serif lines, a soft peach palette, subtle drifting motion and a button cycling three original short poems. Inline all code and support reduced motion.
+Description: Words become a moving composition on a warm, open page.
+Visual techniques: staggered typography, italic contrast, slow horizontal drift, minimal poster layout.
+Interaction model: A button cycles the displayed poem.

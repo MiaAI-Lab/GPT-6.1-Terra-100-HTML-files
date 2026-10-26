@@ -1,0 +1,5 @@
+Title: Jellyfish
+Prompt: Create a responsive offline underwater page with a glowing CSS jellyfish, trailing tentacles, slow drifting motion, deep blue gradients and refined serif type. Include pause and reduced-motion support. Inline all code.
+Description: A luminous imagined jellyfish floats through a dark and quiet sea.
+Visual techniques: translucent gradients, glow, striped tentacles, vertical drift.
+Interaction model: A button pauses or resumes the drift.

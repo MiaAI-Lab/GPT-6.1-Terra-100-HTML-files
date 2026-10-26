@@ -1,0 +1,5 @@
+Title: Atelier Ink
+Prompt: Design a responsive, self-contained art studio page with a slowly morphing ink blot, quiet cream background, dark forest ink and refined serif typography. Add a control cycling three short studio reflections and support reduced motion.
+Description: A slow-changing ink form expresses the beauty of an imperfect handmade mark.
+Visual techniques: morphing border radii, soft layered shadows, understated grid, editorial typography.
+Interaction model: A button cycles through three reflections.

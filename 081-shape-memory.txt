@@ -1,0 +1,5 @@
+Title: Shape Memory
+Prompt: Build a responsive offline four-pair memory game with eight muted green tiles revealing geometric symbols, a live match count and elegant editorial typography. Inline all code.
+Description: A quiet geometric matching game combines playful interaction with a restrained palette.
+Visual techniques: responsive tile grid, reveal transitions, simple geometric glyphs, muted colors.
+Interaction model: Select two tiles to find a matching pair; mismatches hide again.

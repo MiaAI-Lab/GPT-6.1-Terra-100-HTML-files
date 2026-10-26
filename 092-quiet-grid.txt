@@ -1,0 +1,5 @@
+Title: Quiet Grid
+Prompt: Create a responsive offline two-color composition toy with a 4-by-4 grid of independently toggled squares, muted sage and coral colors and refined editorial typography. Inline all code.
+Description: A simple grid invites the viewer to create a small color pattern.
+Visual techniques: CSS grid, muted color fields, smooth color transitions, generous whitespace.
+Interaction model: Clicking a square toggles its color.

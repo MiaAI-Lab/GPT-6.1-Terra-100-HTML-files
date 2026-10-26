@@ -1,0 +1,5 @@
+Title: Wildflower Note
+Prompt: Make a responsive offline wildflower editorial with a simple CSS flower and stem, meadow green palette, large serif type and a button cycling gentle notes. Inline all code.
+Description: A single illustrated wildflower celebrates the beauty of unplanned growth.
+Visual techniques: CSS flower petals, flat botanical colors, square illustration, editorial typography.
+Interaction model: A button cycles through three short notes.

@@ -1,0 +1,5 @@
+Title: Deep Sea Index
+Prompt: Build a self-contained responsive deep-ocean instrument interface in ink blue and bioluminescent mint, with a depth scale, glowing orb, bold typography and a button to descend through imaginary depths. Inline all code and use no network.
+Description: A speculative oceanographic display makes the dark sea feel vast and luminous.
+Visual techniques: layered gradients, glowing orb, measurement grid, high-contrast typography.
+Interaction model: A button moves the light down the depth scale and updates the readout.

@@ -1,0 +1,5 @@
+Title: Mountain Post
+Prompt: Create a responsive offline mountain postcard with layered CSS peaks, a pale sun, a warm paper border, soft shadow and elegant serif typography. Include a button cycling two postcard messages. Inline all code.
+Description: An imaginary mountain view becomes a small piece of correspondence.
+Visual techniques: polygon mountain layers, paper frame, soft shadow, muted alpine palette.
+Interaction model: A button changes the postcard message.

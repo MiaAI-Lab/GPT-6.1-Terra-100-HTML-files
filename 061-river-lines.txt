@@ -1,0 +1,5 @@
+Title: River Lines
+Prompt: Create a responsive offline abstract river study using fine curved CSS lines on a sea-glass field, an elegant serif title and a button to rotate the composition. Inline all code.
+Description: A handful of curves suggests the continuous movement of water.
+Visual techniques: overlapping elliptical linework, muted water colors, square art panel, smooth rotation.
+Interaction model: The button rotates the artwork.

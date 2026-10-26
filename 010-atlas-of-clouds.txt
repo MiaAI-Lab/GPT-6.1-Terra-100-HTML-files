@@ -1,0 +1,5 @@
+Title: Atlas of Clouds
+Prompt: Create a self-contained, responsive cloud atlas landing page with a soft blue sky, drifting CSS clouds, large editorial serif type and understated field-note details. Include a button cycling through three short cloud descriptions. Use inline CSS and JavaScript, no external resources and support reduced motion.
+Description: An airy illustrated field guide encourages a moment of attention to the changing sky.
+Visual techniques: layered blurred CSS clouds, atmospheric gradient, restrained typography, gentle drifting motion.
+Interaction model: The button cycles through three cloud descriptions.

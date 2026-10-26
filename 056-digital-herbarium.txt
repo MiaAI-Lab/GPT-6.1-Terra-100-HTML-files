@@ -1,0 +1,5 @@
+Title: Digital Herbarium
+Prompt: Create a responsive offline botanical specimen gallery with three differently shaped CSS leaves, soft green cards, warm paper and elegant serif typography. Each leaf reveals a short description. Inline all code.
+Description: Three imagined leaves are collected as a quiet study of botanical form.
+Visual techniques: organic border radii, muted botanical palette, specimen grid, soft shadows.
+Interaction model: Selecting a specimen reveals its description.

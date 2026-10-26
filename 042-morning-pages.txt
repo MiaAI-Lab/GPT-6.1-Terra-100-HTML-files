@@ -1,0 +1,5 @@
+Title: Morning Pages
+Prompt: Create a responsive offline writing surface styled as warm ruled paper with a large serif title, restrained labels and a locally saved textarea. Include feedback when saving succeeds or fails. Inline all CSS and JavaScript.
+Description: An uncluttered notebook page gives the user a private place to begin writing.
+Visual techniques: ruled paper, warm shadows, muted neutrals, spacious two-column editorial layout.
+Interaction model: The user writes and saves text to local browser storage.

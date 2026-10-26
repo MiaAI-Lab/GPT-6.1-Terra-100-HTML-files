@@ -1,0 +1,5 @@
+Title: Signal / Noise
+Prompt: Create an offline responsive oscilloscope-inspired art page with electric green lines on black, oversized brutalist type, a glowing animated waveform and a control to change its frequency. Inline CSS and JavaScript and honor reduced motion.
+Description: A fictional receiver turns signal patterns into a bold kinetic graphic.
+Visual techniques: grid background, glowing ellipse, layered linework, pulse animation, monospace metadata.
+Interaction model: Tuning changes the animation frequency and label.

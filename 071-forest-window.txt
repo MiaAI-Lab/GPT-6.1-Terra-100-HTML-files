@@ -1,0 +1,5 @@
+Title: Forest Window
+Prompt: Create a responsive offline illustrated forest view framed by a CSS window, with layered green trees, soft atmosphere, serif typography and a mist toggle. Inline all code.
+Description: A quiet window looks out onto a simple forest of layered green shapes.
+Visual techniques: CSS trees, architectural frame, green gradients, atmospheric filter.
+Interaction model: A button toggles mist over the forest.

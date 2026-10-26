@@ -1,0 +1,5 @@
+Title: Neon Lane
+Prompt: Make a responsive offline retro-futurist neon landscape with a glowing gradient sun, perspective grid floor, dark violet sky, massive bold typography and a color-shift button. Inline all code.
+Description: An imagined night drive is rendered as a vivid electronic poster.
+Visual techniques: perspective CSS grid, neon glow, gradient sun, saturated colors, bold type.
+Interaction model: A button changes the scene's color frequency.

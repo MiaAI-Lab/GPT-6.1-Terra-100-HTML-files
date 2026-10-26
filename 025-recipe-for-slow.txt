@@ -1,0 +1,5 @@
+Title: A Recipe for Slow
+Prompt: Make a responsive, offline recipe-card-inspired checklist for a slow morning. Use warm cream and coffee colors, an illustrated CSS cup and plate, refined serif type and four checkable steps. All styling must be inline.
+Description: A gentle morning ritual is presented as an elegant recipe.
+Visual techniques: concentric CSS plate and cup, warm paper palette, centered editorial title, ruled checklist.
+Interaction model: Checkboxes let the viewer mark each step complete.

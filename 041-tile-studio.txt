@@ -1,0 +1,5 @@
+Title: Tile Studio
+Prompt: Build a self-contained responsive interactive tile pattern studio with a 4-by-4 grid of terracotta and teal tiles, rotating quarter-circle motifs, warm paper and editorial serif type. Each tile should toggle independently. Inline all code.
+Description: A small grid of ceramic-inspired tiles becomes a hands-on pattern-making surface.
+Visual techniques: CSS grid, quarter-circle motifs, terracotta and teal, individual transitions.
+Interaction model: Clicking a tile changes its color and rotates its motif.

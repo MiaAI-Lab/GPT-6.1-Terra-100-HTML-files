@@ -1,0 +1,5 @@
+Title: Moss & Stone
+Prompt: Create a calm, responsive mindfulness editorial with three stacked CSS stones, moss and chalk colors, large refined serif typography and a button revealing gentle reflections. Use inline CSS and JavaScript only and support offline viewing.
+Description: A balanced stack of stones anchors a quiet invitation to simplify.
+Visual techniques: rounded gradient shapes, inset shadows, muted natural palette, spacious editorial typography.
+Interaction model: A button cycles through short reflections.

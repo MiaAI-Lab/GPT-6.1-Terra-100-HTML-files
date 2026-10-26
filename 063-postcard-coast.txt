@@ -1,0 +1,5 @@
+Title: Postcard Coast
+Prompt: Make a responsive offline coastal postcard with a CSS sea, island and sun, a paper border, warm shadows and elegant serif typography. Include a button cycling two postcard messages. Inline all code.
+Description: An imagined seaside view becomes a small piece of correspondence.
+Visual techniques: flat landscape layers, paper frame, soft shadow, coastal palette.
+Interaction model: A button changes the postcard message.

@@ -1,0 +1,5 @@
+Title: Today Is
+Prompt: Create a responsive offline typographic daily calendar with a huge coral date, elegant serif month, warm paper background and local date updates. Inline all code.
+Description: Today's date becomes a bold, minimal poster that changes with the calendar.
+Visual techniques: oversized numerals, tight tracking, warm paper palette, typographic hierarchy.
+Interaction model: The page updates automatically using the local date.

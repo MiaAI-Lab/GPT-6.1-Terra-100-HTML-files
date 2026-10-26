@@ -1,0 +1,5 @@
+Title: Kinetic Rings
+Prompt: Create a responsive offline abstract kinetic artwork with three pulsing coral rings, warm blush background, centered serif typography, a pause control and reduced-motion support. Inline all code.
+Description: Three rings expand and contract in a gentle rhythmic composition.
+Visual techniques: animated circular borders, overlapping warm colors, centered type, rhythmic scaling.
+Interaction model: A button pauses or resumes the animation.

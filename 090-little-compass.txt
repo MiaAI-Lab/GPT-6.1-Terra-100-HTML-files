@@ -1,0 +1,5 @@
+Title: Little Compass
+Prompt: Create a responsive offline whimsical compass page with a rotating CSS needle, soft green colors, centered serif typography and a button cycling imaginary directions. Inline all code.
+Description: A small compass offers playful suggestions for where to wander next.
+Visual techniques: circular compass, clipped diamond needle, muted greens, centered layout.
+Interaction model: The button rotates the needle and cycles through four directions.

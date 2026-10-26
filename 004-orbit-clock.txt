@@ -1,0 +1,5 @@
+Title: Orbit Clock
+Prompt: Build a self-contained responsive kinetic clock as a minimalist astronomical instrument. Use a warm paper background, black Swiss-style system typography, fine concentric circles, three differently colored orbiting markers and a dark central live clock. Markers should represent local seconds, minutes and hours. All code must be inline and work offline.
+Description: Time is expressed as a quiet set of celestial orbits in a precise, gallery-like layout.
+Visual techniques: concentric CSS circles, restrained geometric composition, real-time transforms, monochrome and terracotta accents.
+Interaction model: The clock updates continuously using the viewer's local time; no input is needed.

@@ -1,0 +1,5 @@
+Title: Dots & Lines
+Prompt: Create a responsive offline abstract composition toy with a pale green field, diagonal lines and user-placed coral dots. Include a live count and clear button, using bold modern typography and inline code.
+Description: A simple interactive field invites the viewer to compose with points and lines.
+Visual techniques: diagonal gradients, flat-color dots, geometric stage, oversized type.
+Interaction model: Clicking the stage adds a dot; a button clears all dots.

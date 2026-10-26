@@ -1,0 +1,5 @@
+Title: Horizon Lines
+Prompt: Create a responsive offline abstract horizon using horizontal color bands, a pale circular sun, warm muted colors and elegant serif typography. Include a button moving the sun. Inline all code.
+Description: A landscape is reduced to a handful of color bands and a single light.
+Visual techniques: hard-stop linear gradient, circular sun, muted sunset palette, minimal composition.
+Interaction model: A button moves the sun and returns it.

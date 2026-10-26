@@ -1,0 +1,5 @@
+Title: Snow Globe
+Prompt: Create a responsive offline snow globe illustration with a CSS glass circle, snowy hill, tree and falling snow, cool pale colors, serif typography, pause control and reduced-motion support. Inline all code.
+Description: A small winter landscape is held inside a softly illuminated globe.
+Visual techniques: circular clipping, falling text snow, CSS hill and tree, cool gradients.
+Interaction model: A button pauses or resumes the falling snow.

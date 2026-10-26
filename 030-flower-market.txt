@@ -1,0 +1,5 @@
+Title: Flower Market
+Prompt: Make a responsive offline flower market poster with three colorful selectable CSS flower illustrations, oversized bold typography and a warm paper background. Each flower should reveal a short message. Inline all code.
+Description: A cheerful graphic flower stall offers three small messages for the viewer.
+Visual techniques: simple CSS flowers, contrasting color panels, bold poster typography, grid composition.
+Interaction model: Selecting a flower reveals its message.

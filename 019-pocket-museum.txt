@@ -1,0 +1,5 @@
+Title: Pocket Museum
+Prompt: Create an offline responsive miniature art museum with three selectable abstract CSS artworks, a warm paper background, elegant editorial typography and short object stories. Make each card visually distinct and inline all code.
+Description: A fictional exhibition turns simple geometric objects into a thoughtful little collection.
+Visual techniques: three-column gallery, abstract CSS shapes, muted pigments, museum labels, editorial scale.
+Interaction model: Selecting an artwork reveals its short story.

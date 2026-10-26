@@ -1,0 +1,5 @@
+Title: Origami Lab
+Prompt: Create a responsive offline origami-inspired editorial page with a geometric CSS paper bird, dusty pink field, ivory paper and refined serif headline. Add a button that sends the bird upward and returns it. Inline all code.
+Description: A folded paper form becomes a playful metaphor for an idea taking flight.
+Visual techniques: clipped polygons, paper-colored facets, soft motion, asymmetric editorial layout.
+Interaction model: The button moves the paper bird away and back.

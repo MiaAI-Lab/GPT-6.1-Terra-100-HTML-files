@@ -1,0 +1,5 @@
+Title: Color Field
+Prompt: Make a responsive offline interactive color study with four large geometric fields, delicate overlaid shapes, an editorial sidebar and a button that cycles through curated palettes. Use warm modernist art direction, clean system typography and smooth color transitions. Put all CSS and JavaScript inline.
+Description: A small modernist composition invites the viewer to notice how adjacent colors change the mood of a geometric arrangement.
+Visual techniques: color blocking, outlined geometry, asymmetrical grid, smooth transitions, typographic hierarchy.
+Interaction model: A button cycles among four curated color palettes.

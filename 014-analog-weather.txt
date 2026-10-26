@@ -1,0 +1,5 @@
+Title: Weather for Imaginary Places
+Prompt: Make an offline responsive fictional weather bureau page with a large analog CSS dial, terracotta and cream palette, vintage instrument details, oversized serif title and a control that changes whimsical forecasts and rotates the needle. Keep all assets inline.
+Description: A playful imaginary weather report is presented as a tactile vintage instrument.
+Visual techniques: circular dial, dashed rings, rotating needle, sun disc, warm print palette.
+Interaction model: The forecast button cycles places, text and needle position.

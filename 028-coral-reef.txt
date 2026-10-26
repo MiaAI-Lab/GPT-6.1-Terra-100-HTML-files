@@ -1,0 +1,5 @@
+Title: Coral Reef
+Prompt: Create a self-contained responsive underwater garden with coral forms built in CSS, rising bubbles, a teal gradient, warm coral accents and oversized serif typography. Include a pause control and respect reduced motion.
+Description: An imagined reef turns the ocean floor into a colorful, quietly moving garden.
+Visual techniques: CSS coral branches, animated bubbles, radial underwater light, contrasting warm accents.
+Interaction model: A button pauses or resumes the bubbles.

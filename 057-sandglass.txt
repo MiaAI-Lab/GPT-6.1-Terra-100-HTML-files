@@ -1,0 +1,5 @@
+Title: Sandglass
+Prompt: Create a responsive offline editorial page centered on a CSS hourglass in warm sand and wood colors. Add large serif typography and a button that turns the hourglass. Inline all code.
+Description: An illustrated hourglass becomes a sculptural study of passing time.
+Visual techniques: CSS glass shapes, sand gradients, warm palette, smooth rotation.
+Interaction model: A button rotates the hourglass by half a turn.

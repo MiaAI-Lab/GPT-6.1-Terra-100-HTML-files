@@ -1,0 +1,5 @@
+Title: Starry Letter
+Prompt: Create a responsive offline nighttime letter page with a CSS envelope, dark blue background, refined serif typography and a button that opens the envelope and reveals a message. Inline all code.
+Description: An imaginary letter from the night offers a small note of light.
+Visual techniques: clipped envelope flap, warm paper colors, dark atmospheric background, smooth transition.
+Interaction model: A button opens or closes the envelope and changes the message.

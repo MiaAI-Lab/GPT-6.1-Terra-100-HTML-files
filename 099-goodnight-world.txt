@@ -1,0 +1,5 @@
+Title: Goodnight World
+Prompt: Create a responsive offline goodnight page with a CSS crescent moon, small stars, dark midnight-blue background, elegant centered serif typography and a button cycling reassuring evening thoughts. Inline all code.
+Description: A quiet crescent moon closes the day with a small note of reassurance.
+Visual techniques: CSS crescent, moon glow, celestial ornaments, centered typography.
+Interaction model: A button cycles through three evening thoughts.

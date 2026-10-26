@@ -1,0 +1,5 @@
+Title: Celestial Compass
+Prompt: Create a responsive offline celestial compass illustration with fine circular lines, an angular two-tone needle, midnight blue and antique gold, and large serif typography. Add a button to rotate the needle. Inline all code.
+Description: An imaginary navigation instrument celebrates the pleasure of choosing a direction.
+Visual techniques: CSS diamond needle, concentric circles, antique palette, smooth rotation.
+Interaction model: The button rotates the compass needle by ninety degrees.

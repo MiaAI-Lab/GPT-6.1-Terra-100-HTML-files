@@ -1,0 +1,5 @@
+Title: Shape Choir
+Prompt: Build a responsive offline interactive composition with four colorful geometric shapes on a warm neutral stage, bold modern typography and independent transform toggles. Inline all code.
+Description: Four simple shapes become a playful, changeable visual chorus.
+Visual techniques: flat geometry, muted primary colors, transform transitions, minimal stage.
+Interaction model: Clicking each shape changes its scale, rotation and form.

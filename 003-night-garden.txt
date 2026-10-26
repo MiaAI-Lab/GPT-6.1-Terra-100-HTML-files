@@ -1,0 +1,5 @@
+Title: Night Garden
+Prompt: Create an offline, standalone, responsive botanical art page about a flower that opens at night. Use a plum-black background, dusty rose petals constructed entirely in CSS, a delicate circular halo, elegant oversized serif typography and slow rotation. Include a button that closes and reopens the bloom and support reduced motion. Inline all CSS and JavaScript.
+Description: A contemplative botanical study pairs a luminous illustrated flower with a restrained nighttime editorial composition.
+Visual techniques: layered CSS petals, radial gradients, circular linework, muted jewel tones, slow rotation.
+Interaction model: A button closes or opens the illustrated flower.

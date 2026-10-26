@@ -1,0 +1,5 @@
+Title: Skyline
+Prompt: Create a responsive offline city skyline poster with a CSS polygon silhouette, warm sunset sky, pale sun, oversized sans-serif typography and a button changing the hour. Inline all code.
+Description: An imaginary city is reduced to its rhythm of shapes against the sky.
+Visual techniques: polygon skyline, sunset gradient, sun disc, bold typography.
+Interaction model: A button toggles a night color treatment.

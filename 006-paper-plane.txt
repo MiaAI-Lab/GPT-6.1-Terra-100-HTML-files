@@ -1,0 +1,5 @@
+Title: A Note to Tomorrow
+Prompt: Create a self-contained, responsive interactive letter to one's future self. Style it as a cream paper postcard on a mist-blue background with ruled writing lines, a circular postal stamp, serif display type and a small paper-plane motif. Let the user save their note locally in the browser, with clear feedback and no network dependencies. Inline all CSS and JavaScript.
+Description: A gentle writing tool borrows the tactile visual language of a handwritten letter.
+Visual techniques: paper shadows, ruled lines, muted colors, postal stamp, oversized serif typography.
+Interaction model: The user writes a note and saves it in local browser storage.

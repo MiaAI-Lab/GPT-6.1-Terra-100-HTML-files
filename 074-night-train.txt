@@ -1,0 +1,5 @@
+Title: Night Train
+Prompt: Create a responsive offline illustrated night-train scene with a CSS train, moon, layered hills and dark blue sky. Include poetic serif typography and a departure button that moves the train. Inline all code.
+Description: A warm train travels through an imagined quiet night landscape.
+Visual techniques: CSS train, moonlit gradient, hill silhouette, moving illustration.
+Interaction model: A button moves the train away and back.

@@ -1,0 +1,5 @@
+Title: Pattern Post
+Prompt: Create a responsive offline graphic pattern study with a field of cream dots on terracotta, bold modern typography and a button toggling the repeat scale. Inline all code.
+Description: One repeated shape becomes a cheerful modernist surface.
+Visual techniques: repeating radial gradient, flat color field, bold typographic hierarchy.
+Interaction model: A button changes the pattern scale.

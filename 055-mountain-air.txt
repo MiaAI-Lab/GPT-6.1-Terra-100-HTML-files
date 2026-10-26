@@ -1,0 +1,5 @@
+Title: Mountain Air
+Prompt: Create a responsive offline mountain landscape with layered CSS polygon peaks, a pale sun, muted green-blue palette, large serif typography and a button changing the atmosphere. Inline all code.
+Description: An imagined mountain view offers a quiet sense of space and fresh air.
+Visual techniques: layered polygon mountains, atmospheric gradient, pale sun, large editorial type.
+Interaction model: A button toggles a misty color treatment.

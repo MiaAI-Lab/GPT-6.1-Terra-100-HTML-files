@@ -1,0 +1,5 @@
+Title: Paper Boat
+Prompt: Create a responsive offline paper-boat scene with a folded CSS polygon, calm water, muted sea-glass colors, gentle bobbing, a pause control and reduced-motion support. Inline all code.
+Description: A small paper boat drifts on a quiet abstract sea.
+Visual techniques: clipped paper polygon, horizontal waterline, gentle bobbing, soft palette.
+Interaction model: A button pauses or resumes the boat's motion.

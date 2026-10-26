@@ -1,0 +1,5 @@
+Title: Lunar Post
+Prompt: Create a responsive offline lunar editorial with an illuminated CSS moon, circular orbit, ink-blue sky, warm paper frame, oversized serif headline and a button cycling three moon silhouettes. Inline all styling and scripts.
+Description: An imaginary letter from the night sky combines a scientific plate with a romantic editorial spread.
+Visual techniques: radial gradient sphere, orbit line, warm paper, asymmetrical layout, clipped moon phases.
+Interaction model: The button changes the moon silhouette and phase label.

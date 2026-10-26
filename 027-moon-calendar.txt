@@ -1,0 +1,5 @@
+Title: Moon Calendar
+Prompt: Create a responsive offline four-panel moon phase gallery with dark blue cards, CSS moon silhouettes, warm paper and large editorial typography. Each phase should reveal a short reflection when selected. Inline all code.
+Description: A set of lunar silhouettes offers a visual meditation on cycles and change.
+Visual techniques: clipped circles, grid of dark panels, warm monochrome, gentle moon glow.
+Interaction model: Selecting a moon phase reveals its reflection.

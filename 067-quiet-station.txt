@@ -1,0 +1,5 @@
+Title: Quiet Station
+Prompt: Create a responsive offline fictional radio interface with a tactile CSS radio enclosure, speaker grille, knobs, muted sage colors and editorial typography. Include a button cycling imaginary stations. Inline all code.
+Description: A soft-colored radio broadcasts an imaginary soundtrack for slow days.
+Visual techniques: rounded hardware, striped speaker grille, raised controls, sage palette.
+Interaction model: A button cycles the station display.

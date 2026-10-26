@@ -1,0 +1,5 @@
+Title: Coffee Orbit
+Prompt: Create a responsive offline coffee ritual page with a top-down CSS cup and plate, warm coffee colors, large serif typography and a button cycling morning thoughts. Inline all code.
+Description: A warm cup of coffee becomes a visual invitation to begin slowly.
+Visual techniques: concentric CSS circles, warm coffee palette, soft shadows, editorial composition.
+Interaction model: A button cycles through three short morning thoughts.

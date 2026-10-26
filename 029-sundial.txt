@@ -1,0 +1,5 @@
+Title: Sundial
+Prompt: Design a responsive offline timepiece inspired by a stone sundial, with a warm sand palette, engraved circular markings, a moving hand that tracks local time and an elegant editorial layout. Inline all CSS and JavaScript.
+Description: A contemporary interpretation of an ancient instrument makes the passage of time visible.
+Visual techniques: concentric CSS circles, engraved borders, shadow, local-time rotation, earthy colors.
+Interaction model: The dial and digital display update automatically from local time.

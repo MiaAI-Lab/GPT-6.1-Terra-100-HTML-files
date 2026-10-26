@@ -1,0 +1,5 @@
+Title: Paper Lantern
+Prompt: Create a responsive offline evening scene with a glowing CSS paper lantern, subtle sway, dark violet background, warm typography and a button to dim the light. Support reduced motion and inline all code.
+Description: A single warm lantern brings a soft glow to a quiet night.
+Visual techniques: repeating paper ribs, glow shadows, hanging line, gentle sway, rich dark palette.
+Interaction model: A button dims or brightens the lantern.

@@ -1,0 +1,5 @@
+Title: Northern Lights
+Prompt: Create a responsive offline aurora scene with blurred animated bands of mint, blue and violet above a dark CSS mountain silhouette. Overlay elegant serif typography and include a pause button and reduced-motion support. Inline all code.
+Description: An imagined northern sky glows above a quiet mountain range.
+Visual techniques: blurred gradient aurora, polygon mountains, atmospheric dark background, gentle movement.
+Interaction model: A button pauses or resumes the aurora.

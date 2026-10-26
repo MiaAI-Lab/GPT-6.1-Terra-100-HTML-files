@@ -1,0 +1,5 @@
+Title: Museum of Shadows
+Prompt: Create a responsive offline sculptural light study with a simple arched object, a movable CSS shadow, warm plaster colors and refined serif typography. Add a button changing the shadow direction. Inline all code.
+Description: An abstract object and its shadow make a minimal exhibition about light.
+Visual techniques: arched shape, animated box shadow, warm plaster palette, gallery-like whitespace.
+Interaction model: A button shifts the shadow to the other side.

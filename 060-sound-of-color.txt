@@ -1,0 +1,5 @@
+Title: Sound of Color
+Prompt: Build a responsive offline five-color musical instrument with large vertical color fields, bold typography and short synthesized notes using the Web Audio API. Each color should play a different note when clicked. Inline all code.
+Description: A curated palette becomes an approachable little musical keyboard.
+Visual techniques: full-height color fields, restrained labels, large type, responsive vertical layout.
+Interaction model: Clicking a color plays its synthesized note and updates the label.

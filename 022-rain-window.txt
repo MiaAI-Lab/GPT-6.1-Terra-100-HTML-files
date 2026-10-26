@@ -1,0 +1,5 @@
+Title: Rain Window
+Prompt: Create a responsive standalone rainy-window scene with soft layered hills, muted blue-gray colors, animated CSS rain, a window mullion and poetic editorial typography. Include a pause control and reduced-motion support. Use no external assets.
+Description: An illustrated rainy afternoon offers a calm place to stop and look out.
+Visual techniques: animated linear gradients, hazy layers, architectural frame, muted tones, quiet typography.
+Interaction model: A button pauses or resumes the rain animation.

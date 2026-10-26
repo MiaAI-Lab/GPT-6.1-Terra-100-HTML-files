@@ -1,0 +1,5 @@
+Title: Citrus Radio
+Prompt: Design a responsive fictional radio station cover as a self-contained HTML page. Combine a sunny yellow, persimmon and cream palette, bold compressed-looking system typography, a large grooved CSS vinyl record, a playful sticker and an asymmetric split layout. Add play/pause rotation and a next-track control without external audio or assets. Include reduced-motion support and inline all styling and scripts.
+Description: A cheerful record sleeve becomes an interactive radio interface with tactile print-inspired details.
+Visual techniques: repeating radial gradients, oversized typography, sticker motif, high-contrast borders, rotating CSS record.
+Interaction model: Play and pause control the record animation; next cycles fictional track titles.

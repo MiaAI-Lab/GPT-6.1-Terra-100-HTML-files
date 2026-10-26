@@ -1,0 +1,5 @@
+Title: Echo Chamber
+Prompt: Create a responsive offline typographic poster toy with three huge repeated words in layered warm colors on yellow. Let the viewer enter a short word and update all three lines. Use bold system type and inline all code.
+Description: A word becomes a vivid, rhythmic graphic through repetition and color.
+Visual techniques: repeated oversized typography, tight tracking, warm color stacking, bold poster composition.
+Interaction model: The user enters a word and applies it to the three-line poster.
